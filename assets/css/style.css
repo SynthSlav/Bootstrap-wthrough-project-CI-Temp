@@ -26,3 +26,16 @@ h1, h2 {
 #portfolio {
     background-color:  #dbdcde;
 }
+
+#contact {
+    background-color: white;
+}
+
+#hero {
+    background-color:  #dbdcde;
+    background: url("../images/background.webp" );
+    background-size: cover;
+    background-position: 50% 70%;
+    min-height: 500px;
+    padding: 5% 7%;
+}
